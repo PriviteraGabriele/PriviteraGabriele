@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriele Privitera</h1>
 <h3 align="center">I'm a Computer Science student in UNICT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priviteragabriele&label=Profile%20views&color=0e75b6&style=flat" alt="priviteragabriele" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priviteragabriele" alt="priviteragabriele" /></a> </p>
-
 - 📚 I'm currently studying **Computer Science (UniCT L-31)**
 
 - 📫 How to reach me **gabriele.pr.01@gmail.com**

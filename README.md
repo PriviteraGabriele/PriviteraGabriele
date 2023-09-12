@@ -1,8 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriviteraGabriele&show_icons=true&theme=tokyonight)](https://github.com/PriviteraGabriele/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriviteraGabriele&layout=compact)](https://github.com/PriviteraGabriele/github-readme-stats)
-
-
 <h1 align="center">Hi 👋, I'm Gabriele Privitera</h1>
 <h3 align="center">I'm a Computer Science student in UNICT</h3>
 

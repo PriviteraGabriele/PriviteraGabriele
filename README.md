@@ -12,6 +12,8 @@
 
 <p align="left">📚 I'm currently studying Computer Science (UniCT L-31)</p>
 
+<p align="left">📫 How to reach me: gabriele.pr.01@gmail.com</p>
+
 ###
 
 <h2 align="left">I code with</h2>

@@ -2,8 +2,6 @@
 
 <p align="center">I am a determined and passionate backend developer with a strong desire to grow in the world of software development. Interested in the latest technologies, I strive to contribute to the success of projects and integrate successfully into development teams.</p>
 
----
-
 <h2 align="left">📖 About Me</h2>
 
 - 🎓 I'm currently studying **Computer Science (UniCT L-31)**.  
@@ -11,8 +9,6 @@
 - 🎮 In my free time, you'll find me **playing video games**, **listening to music**, or **exploring new tech**.  
 - ☁️ I also enjoy **watching clouds**, a moment to pause and reflect.  
 - 📫 Reach me at: **gabriele.pr.01@gmail.com**
-
----
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
@@ -45,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
 </div>
-
----
 
 <h2 align="left">🌐 Connect with Me</h2>
 

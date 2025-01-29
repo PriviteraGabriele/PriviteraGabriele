@@ -4,8 +4,8 @@
 
 <h2 align="left">📖 About Me</h2>
 
+- 💻 I work as a **Backend Developer** at **Zucchetti**, contributing to a project in the **hospitality industry**. 
 - 🎓 I'm currently studying **Computer Science (UniCT L-31)**.  
-- 💻 I work as a **Backend Developer** at **Zucchetti**, contributing to a project in the **hospitality industry**.  
 - 🎮 In my free time, you'll find me **playing video games**, **listening to music**, or **exploring new tech**.  
 - ☁️ I also enjoy **watching clouds**, a moment to pause and reflect.  
 - 📫 Reach me at: **gabriele.pr.01@gmail.com**
